@@ -1,0 +1,1 @@
+This repository demonstrates two uncommon bugs in Firebase: connection errors and race conditions.  The `firebaseBug.js` file showcases scenarios where connection issues may arise, leading to unexpected behavior.  The `firebaseBugSolution.js` file provides improved error handling and race condition mitigation strategies.
